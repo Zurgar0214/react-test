@@ -1,0 +1,20 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "- Using Vite instead of standar reactjs startup project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zurgar0214/react-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zurgar0214/react-test/issues"
+  },
+  "homepage": "https://github.com/Zurgar0214/react-test#readme"
+}
